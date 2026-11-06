@@ -7,7 +7,7 @@ Visual simulation of **Swiss System**, **Double Elimination**, and **Single Elim
 ### 📆 Folder Structure
 
 ```
-TournamentSimulator/
+Tournament-Simulator/
 ├── double_elimination/
 │   ├── double_elimination.py            # Double Elimination simulation script
 │   └── double_elimination_matches.json  # Match structure for DE bracket
